@@ -1,0 +1,16 @@
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.csproj.AssemblyReference.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.AssemblyInfoInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.AssemblyInfo.cs
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.exe
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.deps.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.runtimeconfig.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.runtimeconfig.dev.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\ref\prjVendas.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\bin\Debug\net5.0\prjVendas.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\ref\prjVendas.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Vendedor\prjVendas\prjVendas\obj\Debug\net5.0\prjVendas.genruntimeconfig.cache
